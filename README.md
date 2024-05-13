@@ -1,1 +1,1 @@
-### HackerRank Maths problems
+### HackerRank Maths problems using only Python
