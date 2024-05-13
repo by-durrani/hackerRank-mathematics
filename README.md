@@ -1,1 +1,1 @@
-### Started posting HackerRank Maths problems from easy level
+### HackerRank Maths problems using only Python
